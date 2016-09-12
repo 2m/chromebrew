@@ -1,7 +1,7 @@
 #chromebrew directories
-OWNER="skycocker"
+OWNER="2m"
 REPO="chromebrew"
-BRANCH="master"
+BRANCH="bmorris22/with_ruby-2.19"
 URL="https://raw.githubusercontent.com/$OWNER/$REPO/$BRANCH"
 CREW_PREFIX=/usr/local
 CREW_LIB_PATH=$CREW_PREFIX/lib/crew/
